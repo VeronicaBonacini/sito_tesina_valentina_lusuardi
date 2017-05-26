@@ -41,9 +41,7 @@ footer {
 
 .navbar-nav {
   position: absolute;
-  margin:51px 0;
   width: 100%;
-  min-height: 100%;
   z-index: 1000;
   background-color: #F8F8F8;
 }
@@ -69,11 +67,3 @@ footer {
   left: 90%;
 }
 
-
-.collapsing .nav{
-  border-top: 1px solid #e7e7e7;
-}
-
-.collapsing .nav li{
-  padding-left: 5%;
-}
