@@ -34,11 +34,13 @@ footer {
 
 .navbar {
   margin-bottom: 0!important;
-  
+  background-color: grey!important;
+
 }
 
 .navbar .navbar-toggle{
   display: block!important;
+  background-color: white!important;
 }
 
 .panel {

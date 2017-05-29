@@ -72,6 +72,7 @@ gulp.task('serve', () => {
     server: './dist',
     baseDir: '/',
     port: 4000,
+    routes:['/index.html','/freud.html'],
     notify: false
   });
 });
