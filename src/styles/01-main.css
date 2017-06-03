@@ -36,7 +36,7 @@ footer {
 .navbar {
   margin-bottom: 0!important;
   background-color: grey!important;
-
+  z-index: 50;
 }
 
 .navbar .navbar-toggle{
@@ -72,7 +72,27 @@ footer {
   border-right: 3px solid pink;
 }
 
-#downBtn{
+.carousel {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 0;
+  top:52px;
+}
+
+.carousel img { 
+  width:100%
+}
+
+
+.carousel p {
+  font-size: 80px;
+}
+
+#downBtn {
   position: absolute;
   top:75%;
   left: 90%;
@@ -80,5 +100,5 @@ footer {
 
 #Introduzione {
   position: relative;
-  margin-top: 110vh;
+  margin-top: 100vh;
 }
