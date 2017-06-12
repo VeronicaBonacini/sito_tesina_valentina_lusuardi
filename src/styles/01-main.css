@@ -37,6 +37,10 @@ footer {
   z-index: 50;
 }
 
+.navbar-brand {
+  color: white!important;
+}
+
 .navbar .navbar-toggle{
   display: block!important;
   background-color: white!important;
