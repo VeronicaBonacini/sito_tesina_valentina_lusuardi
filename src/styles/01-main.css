@@ -1,7 +1,5 @@
 body {
-  /*background-image: url("../images/1.jpg");
-  background-repeat: repeat;*/
-}
+ }
 
 footer {
   background-color: black;
@@ -68,10 +66,6 @@ footer {
   text-align: center
 }
 
-.col-md-6 {
-  border-right: 3px solid pink;
-}
-
 .carousel {
   position: absolute;
   height: 100vh;
@@ -101,4 +95,38 @@ footer {
 #Introduzione {
   position: relative;
   margin-top: 100vh;
+}
+
+h1 {
+  margin-top: 10px;
+  color: pink;
+  font-size: 60px;
+  }
+
+p {
+  margin-top: 10px;
+  font-size: 16px;
+  }
+li {
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.col-md-12.title.principale {
+  border-bottom: 2.5px solid pink;
+  margin-top: 40px!important;
+}
+
+.col-md-12.title {
+  border-bottom: 2.5px solid pink;
+}
+
+.col-md-6.domande {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.col-md-6.risposte {
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
