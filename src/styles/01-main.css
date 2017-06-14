@@ -134,3 +134,26 @@ li {
   margin-top: 20px;
   margin-bottom: 30px;
 }
+
+.link {
+  color: black;
+}
+
+.b1 {
+  background-image: url('images/imageslatino.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row.latino {
+  height: 800px;
+}
+
+.col-md-6.quintiliano {
+  color: white;
+  margin-top: 100px;
+  background-color: grey;
+  margin-left: 50px;
+  margin-right: 50px;
+  opacity: 0.6
+}
