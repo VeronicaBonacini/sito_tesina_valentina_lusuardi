@@ -150,10 +150,10 @@ li {
 }
 
 .col-md-6.quintiliano {
-  color: white;
+  color: black;
   margin-top: 100px;
-  background-color: grey;
+  background-color: white;
   margin-left: 50px;
   margin-right: 50px;
-  opacity: 0.6
+  opacity: 0.7;
 }
