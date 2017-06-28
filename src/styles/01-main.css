@@ -179,7 +179,7 @@ li {
 
 .col-md-6.inglese {
   color: white;
-  margin-top: 400px;
+  margin-top: 380px;
   background-color: black;
   margin-left: 620px;
   margin-right: 50px;
@@ -201,11 +201,16 @@ p.button {
   opacity: 0.7;
 }
 
-h1.storia {
-  color: yellow!important; 
+.col-md-12.title.pagine.storia{
+  background-color: black;
+  opacity: 0.8;
 }
 
-.col-md-12.title.pagine.storia{
-  color: yellow!important;
-  border-bottom: 2.5px solid yellow;
+.col-md-6.storia{
+  color: black;
+  margin-top: 380px;
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 620px;
+  opacity: 0.8;
 }
