@@ -103,7 +103,7 @@ footer {
 
 h1.principale{
   margin-top: 10px;
-  color: pink;
+  color: pink!important;
   font-size: 60px;
   }
 
@@ -139,6 +139,7 @@ li {
 .col-md-6.domande {
   margin-top: 20px;
   margin-bottom: 30px;
+  font-style: italic;
 }
 
 .col-md-6.risposte {
@@ -213,4 +214,25 @@ p.button {
   margin-left: 50px;
   margin-right: 620px;
   opacity: 0.8;
+}
+
+h1.bibliografia{
+  color: pink!important;
+}
+
+.col-md-6.bibliografia {
+  margin-top: 30px;
+}
+
+h1.finale{
+  color: pink!important;
+  text-decoration: underline;
+}
+
+p.casoaparte {
+  padding-top: 7px;
+}
+
+li.casoaparte {
+  padding-top: 5px;
 }
